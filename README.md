@@ -63,4 +63,4 @@ Just use "npm install" in the root directory and run the app through "npm start"
 [![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - MIT License
-- Copyright 2021 © [Maryam Aljanabi](https://github.com/maryamaljanabi)
+- Copyright 2025 © [Sanskar Soni](https://github.com/Sanskar7805)
